@@ -1,0 +1,17 @@
+{
+  "name": "bootstrap-gulp-scss",
+  "version": "1.0.0",
+  "description": "Project is boilermaker for Boostrap 4 via scss with Gulp task mamanger. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "bootstrap": "^4.0.0-alpha.6",
+    "browser-sync": "^2.18.13",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0"
+  }
+}
