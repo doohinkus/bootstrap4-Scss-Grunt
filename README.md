@@ -7,6 +7,5 @@ This is boilerplate bootstrap 4 setup. It includes a grunt file that allows for 
 ## Requires Node JS:
 * Clone repository
 * cd to repository
-* ```bash
-npm install
-```
+* npm install
+* grunt (to serve the page--auto updates with browsersync)
